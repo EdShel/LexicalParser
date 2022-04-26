@@ -1,0 +1,2 @@
+﻿x := not not not 5 (4abc := 4 or a);
+foo:=bar:=4;baz := (001 and fff) xor ((((((x >= 4))))))
